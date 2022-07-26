@@ -1,4 +1,4 @@
-# Do_It_Flutter_Study
+# DoItFlutterStudy
 
 플러터 DoIt!실습
 
